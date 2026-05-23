@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-dance-in-little-rock/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Last Dance in Little Rock](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-dance-in-little-rock/) |
+| **Get License** | [License this song: Last Dance in Little Rock](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-dance-in-little-rock/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Slide a little closer, let the music play
+> I just wanna hold you till the break of day
+> We got nothing but the moonlight on the block
+> Give me one last dance in Little Rock
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
