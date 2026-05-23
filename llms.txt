@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-dance-in-little-rock/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Last Dance in Little Rock](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-dance-in-little-rock/) |
+| **Get License** | [Request Licensing for Last Dance in Little Rock](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-dance-in-little-rock/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1998)
 
 ---
 
